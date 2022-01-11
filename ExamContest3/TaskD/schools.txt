@@ -1,0 +1,14 @@
+5
+Ivan Igorevich Petrov 7 17
+Oleg Borisovich Klimov 6 19
+Anna Andreevna Sidorova 9 19
+Dmitry Maksimovich Ivanov 8 17
+Elena Alekseevna Andreeva 1 170
+3
+Ulitsa Vvedenskogo, 28, Moscow; 17
+Ulitsa Ostrovityanova, 53, Moscow; 19
+Ulitsa Profsoyuznaya, 96, Moscow; 170
+3
+union 17 19
+mv 1 17-1 16
+close 170 17-2
